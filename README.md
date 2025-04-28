@@ -93,7 +93,8 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=20526644&style=0009&nbdigits=8&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>          
   
 
 <br/>  
@@ -102,4 +103,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Aman_Chourasia</div>
